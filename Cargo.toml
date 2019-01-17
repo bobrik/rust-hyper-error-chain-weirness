@@ -1,0 +1,12 @@
+[package]
+name = "rust-hyper-error-chain-weirness"
+version = "0.1.0"
+authors = ["Ivan Babrou <hellp@ivan.computer>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1"
+tokio = "0.1"
+hyper = "0.12"
+hyper-tls = "0.3"
+error-chain = "0.12"
